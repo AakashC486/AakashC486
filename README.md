@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AakashC486
 - 👀 I’m interested in RPA -UIPATH, Blueprism, Python Programming, SQL.
-- 🌱 I’m currently learning Competitive Programming.
-- 💞️ I’m looking to collaborate with Programmers like me
+-- 💞️ I’m looking to collaborate with RPA Developer like me
 - 📫 How to reach me : aakashchaurasia314@gmail.com
 
 
